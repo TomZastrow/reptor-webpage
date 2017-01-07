@@ -12,7 +12,7 @@
         <title>Reptor Software</title>
     </head>
 
-    <body>
+    <body style="font-size: 1.8em;">
 
         <?php
         include 'navbar.php';
@@ -24,14 +24,15 @@
                     <img src="images/header.png" />
                 </div>
 
-                <h2>Reptor Repository Software</h2>
-                <p>Reptor is a PHP application which turns a webserver into a data repository. It demonstrates the functionality of a modern data repository along the recommendations of the Research Data Alliance (RDA).</p>
+                
+                <p style="margin-top:30px;">Reptor is a PHP application which turns a webserver into a data repository. It demonstrates the functionality of a modern data repository along 
+                    the recommendations of the Research Data Alliance (RDA).</p>
          
-                    <div  >
+                    <div style="margin-top:50px;" >
                         <img src="images/fileListing.png" />
                     </div>
 
-                <br /><hr />
+                <hr style="margin-top: 50px;margin-bottom: 50px; border:solid #002A4D 1.5px;" />
 
                 <div class="row" style="width:1400px;">
                     <div class="col-md-3" >
@@ -58,8 +59,9 @@
 
 
                 <div style="margin: auto; width:20%;margin-top:30px;" >
-                    <a href='#'><button class="btn btn-primary">Click here for a quickstart :-)</button></a>
+                    <a href='#'><button class="btn btn-primary"> Click here for a quickstart</button></a>
                 </div>
+                <br /><br/>
             </div>
         </div> <!-- /container -->
         <?php

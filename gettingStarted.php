@@ -17,8 +17,25 @@
         ?>
         <div class="container theme-showcase" role="main" style="margin-top:50px;">
             <h1>Getting Started</h1>
-            
-            
+            <h2>Installation</h2>
+            <p>
+                Simply clone the GitHub repository into an empty folder on a PHP enabled webserver:
+            </p>
+                <p>
+                    <code>git clone https://github.com/TomZastrow/reptor.git</code>
+                </p>
+                <p>
+                Point your browser to that directory and you should see the Reptor startpage:
+                </p>
+                <p>
+                <img src="images/reptorScreenshot.png" />
+                </p>
+            </p>
+            <h2>First View</h2>
+            <p>
+                The installation of Reptor contains an example: scroll down until you see the folder "Photos" and click on it.
+            </p>
+
         </div> <!-- /container -->
         <?php
         include 'foot-scripts.php';

@@ -12,7 +12,7 @@
         <title>Reptor Software</title>
     </head>
 
-    <body>
+    <body >
 
         <?php
         include 'navbar.php';

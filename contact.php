@@ -17,6 +17,7 @@
         ?>
         <div class="container theme-showcase" role="main" style="margin-top:50px;">
             <h1>Contact</h1>
+            <p>Please go <a href="https://www.thomas-zastrow.de/kontaktx.php">here</a> for writing an email.</p>
             
             
         </div> <!-- /container -->

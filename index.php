@@ -25,16 +25,16 @@
                 </div>
 
 
-                <p style="margin-top:30px;font-size: 2em;"><strong>Reptor</strong> is a PHP application which turns a webserver into a data repository. </p>
+                <p style="margin-top:30px;font-size: 1.5em;"><strong>Reptor</strong> is a PHP application which turns a webserver into a data repository. </p>
 
                 <div>
                     <img src="images/fileListing.png" />
                 </div>
 
                 <!-- <hr style="margin-top: 50px;margin-bottom: 20px; border:solid #002A4D 1.5px;" /> -->
-                <br /><br /><br /><br /><br />
+                <br /><br />
 
-                <p style="font-size: 2em;"><strong>Reptor</strong>  demonstrates the functionality of a modern data repository along 
+                <p style="font-size: 1.5em;"><strong>Reptor</strong>  demonstrates the functionality of a modern data repository along 
                     the recommendations of the Research Data Alliance (RDA).</p>
 
                 <br /><br />

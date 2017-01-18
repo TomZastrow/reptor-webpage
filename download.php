@@ -17,7 +17,12 @@
         ?>
         <div class="container theme-showcase" role="main" style="margin-top:50px;">
             <h1>Download</h1>
-            
+     <p>
+                Simply clone the GitHub repository into an empty folder on a PHP enabled webserver:
+            </p>
+            <p>
+                <code>git clone https://github.com/TomZastrow/reptor.git</code>
+            </p>    
             
         </div> <!-- /container -->
         <?php

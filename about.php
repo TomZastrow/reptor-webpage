@@ -31,7 +31,8 @@
                 <tr><td><img src="images/objectdata.png"><br/></br/></td><td>Access to the object data (bitstreams) stored on the filesystem and taking care of permission management</td></tr>
                 <tr><td><img src="images/dtr.png"><br/></br /></td><td>Integration of Data Type Registries (DTR)</td></tr>
                 <tr><td><img src="images/oai.png"><br/></br /></td><td>OAI-PMH</td></tr>
-                <tr><td><img src="images/resourcesync.png"><br/></br /></td><td>ResourceSync (partially</td></tr>
+                <tr><td><img src="images/resourcesync.png"><br/></br /></td><td>ResourceSync (partially implemented)</td></tr>
+                <tr><td><img src="images/share.png"></td><td>Social Media Integration (Facebook, Twitter)</td></tr>
             </table>
         </p>
 

@@ -17,6 +17,8 @@
         ?>
         <div class="container theme-showcase" role="main" style="margin-top:50px;">
             <h1>Documentation</h1>
+            <p><a href="Documentation/Manual/ReptorManual.pdf">Click here</a> for the Reptor Manual</p>
+            <img src="images/winter2.png" style="float:left;" />
             
             
         </div> <!-- /container -->
